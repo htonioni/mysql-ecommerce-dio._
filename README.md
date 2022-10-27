@@ -41,3 +41,7 @@ Assim como demonstrado durante o desafio, realize a criação do Script SQL para
 ---
 
 O projeto foi feito baseado em um E-COMMERCE fictício que foi implantado em outro projeto dio também, imaginado e pensado para que fosse tirado o maior proveito de aprendizagem do aluno, a ferramenta utilizada foi o MySQL Workbench 8.0 CE conforme orientado pela professora que ministra o curso.
+
+## Certificado
+
+![img](https://github.com/htonioni/mysql-ecommerce-dio._/blob/main/certificado/certificado.jpg)
